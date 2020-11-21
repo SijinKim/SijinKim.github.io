@@ -1,15 +1,17 @@
 # main links
 main:
   - title: "Computer Vision"
-    url: https://SijinKim.github.io/CV
+    url: /categories/cv/
   - title: "Machine Learning"
-    url: https://SijinKim.github.io/ML
+    url: /categories/ml/
   - title: "Papers"
-    url: https://SijinKim.github.io/Papers
+    url: /categories/papers/
   - title: "Dev"
-    url: https://SijinKim.github.io/Dev
+    url: /categories/dev/
+  - title: "Categories"
+    url: /categories/
   - title: "About"
-    url: https://SijinKim.github.io/About
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
