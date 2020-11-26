@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Computer Vision"
-    url: /categories/cv/
-  - title: "Machine Learning"
-    url: /categories/ml/
-  - title: "Papers"
-    url: /categories/papers/
-  - title: "Dev"
-    url: /categories/dev/
+  # - title: "Computer Vision"
+  #   url: /categories/cv/
+  # - title: "Machine Learning"
+  #   url: /categories/ml/
+  # - title: "Papers"
+  #   url: /categories/papers/
+  # - title: "Dev"
+  #   url: /categories/dev/
   - title: "Categories"
     url: /categories/
   - title: "About"
@@ -16,4 +16,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
